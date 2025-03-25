@@ -40,7 +40,7 @@ Clone this repository:
 
 <li>cd image-search-engine</li>
 
-<li>Open **index.html** in your browser.</li>
+<li>Open <b>index.html</b> in your browser.</li>
 
 <li>Type in a search keyword and hit Search! 🎯</li>
 
@@ -49,8 +49,7 @@ Clone this repository:
 
 <h1>📸 Screenshot</h1>
 
-![image](https://github.com/user-attachments/assets/aa0ba2b8-68f8-474f-a0e1-95e508b538e6)
-
+![Screenshot 2025-02-07 100531](https://github.com/user-attachments/assets/4da35286-fd8d-4ce4-9ce4-6aa40abb34ae)
 
 <h1>🤝 Contributing</h1>
 
